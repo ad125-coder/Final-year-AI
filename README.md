@@ -1,2 +1,0 @@
-# Final-year-AI
-Coursework
